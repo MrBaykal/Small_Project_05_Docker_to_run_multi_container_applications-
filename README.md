@@ -20,4 +20,4 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 docker-compose version
 
-Do not forget to open 5000 port of AWS EC2
+Do not forget to open 5000 port of AWS EC2. So you can see the APP with EC2.
