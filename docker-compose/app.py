@@ -54,4 +54,4 @@ if __name__ == '__main__':
     # Call create_table function to ensure database table exists
     create_table()
     # Run the Flask application on host '0.0.0.0' and enable debug mode
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', debug=True)
